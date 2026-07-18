@@ -4,9 +4,6 @@ I'm passionate about using **science, data, and technology** to better understan
 
 My background combines **science**, **software engineering**, and **statistics**, with experience in time series analysis, experimental design, backend development, and data-driven applications. Today, I'm expanding into **Environmental Health**, where I continue exploring how analytical thinking and technology can help solve meaningful real-world problems.
 
-[![Gabriela's GitHub stats](https://github-stats-extended.vercel.app/api?username=gchoy)](https://github.com/stats-organization/github-stats-extended)
-
-
 ---
 
 ## 🚀 Current Interests
